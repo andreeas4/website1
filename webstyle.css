@@ -1,0 +1,98 @@
+
+p.center {
+    text-align: center;
+   
+  }
+body{
+    margin:-10px;
+    background-color: rgb(0, 129, 250);
+    background-image: url('images/background1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+#navigation {
+    width: 1496px;
+    height: 30px;
+    background-color: #34689c;
+    padding: 30px;
+    border-radius:0px;
+    margin-left:-10px;
+    margin-top: -7px;
+    margin-bottom:50px;
+    
+}
+button.buton_bar1{
+    padding:10px;
+    color:rgb(198, 214, 215);
+    text-align: center;
+    margin-top: 2%;
+    margin-left:540px;
+    margin-right:15px ;
+    background-image: url(images/cloud2.avif); /* Removed quotes */
+    background-size: cover;
+    
+}
+button.buton_bar2{
+    padding:10px;
+    color:rgb(198, 214, 215);
+    text-align: center;
+    margin-top: 2%;
+    margin-left:15px;
+    margin-right:15px ;
+    background-image: url(images/cloud2.avif); /* Removed quotes */
+    background-size: cover;
+
+
+}
+button.buton_bar3 {
+    padding: 10px;
+    color: rgb(198, 214, 215);
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 15px; /* Added 'px' unit */
+    margin-right: 0px;
+    background-image: url(images/cloud2.avif); /* Removed quotes */
+    background-size:cover;
+    
+}
+
+a[href^="#"]{
+    font-family:Papyrus;
+     font-size: 30px;
+}
+#sect1{
+
+    padding: 50px;
+    width: 1496px;
+    height:260px;
+    margin-top: 30px;
+
+
+}
+#pet1{
+
+    width:250px;
+    height: 250px;
+    margin-left:200px;
+
+
+}
+.pets{
+    
+    width:250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-right:20px;
+    margin-top: 30px;
+    border:solid;
+    
+
+}
+
+
+
+
+
+
